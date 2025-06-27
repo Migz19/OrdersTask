@@ -1,4 +1,4 @@
-# Flutter Internship Technical Evaluation
+# Flutter I&C Technincal task
 
 This repository contains the implementation of the technical evaluation task for the Flutter internship position. The goal was to build three user-profile screens using Flutter, GetX state management, MVVM architecture, and Firebase integration, along with an additional feature for sorting/filtering orders.
 
