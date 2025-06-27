@@ -27,11 +27,11 @@ This repository contains the implementation of the technical evaluation task for
 
 ## 🖼️ Screenshots
 
-> *Add your project screenshots into the **`screenshots/`** folder and update the paths below.*
 
-| Profile Screen            | Edit Profile Screen            | My Orders Screen            |
-| ------------------------- | ------------------------------ | --------------------------- |
-| `Profile.jpg` | `filtering_orders.jpg` | `screenshots/my_orders.png` |
+
+| Profile Screen                      | Edit Profile Screen            | My Orders Screen            | Filter Orders            |
+| -------------------------          | ------------------------------ | --------------------------- | --------------------------- |
+| <img src="Profile.jpg" alt="Profile" width="300" height="600"> | <img src="Edit_profile.jpg" alt="Edit Profile" width="300" height="600">  | <img src="orders.jpg" alt="Orders" width="300" height="600">  |<img src="filtering_orders.jpg" alt="Orders" width="300" height="600"> 
 
 ---
 
