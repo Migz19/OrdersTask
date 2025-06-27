@@ -31,7 +31,7 @@ This repository contains the implementation of the technical evaluation task for
 
 | Profile Screen            | Edit Profile Screen            | My Orders Screen            |
 | ------------------------- | ------------------------------ | --------------------------- |
-| `screenshots/profile.png` | `screenshots/edit_profile.png` | `screenshots/my_orders.png` |
+| `Profile.jpg` | `filtering_orders.jpg` | `screenshots/my_orders.png` |
 
 ---
 
